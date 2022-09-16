@@ -1,4 +1,4 @@
-<div id="top"></div>
+<!-- <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -10,6 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
+<!-->
 <br />
 <div align="center">
   <a href="https://github.com/sayuru-akash/accident-tracking-website">
@@ -26,9 +27,8 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
+<!-->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -53,30 +53,28 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+<!-->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/sayuru-akash/accident-tracking-website)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [PHP]
-* [HTML]
-* [CSS]
-* [JavaScript]
-* [MySQL]
+- [PHP]
+- [HTML]
+- [CSS]
+- [JavaScript]
+- [MySQL]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+<!-->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -96,22 +94,20 @@ This project is built using PHP and uses MYSQL for database. You will need to ha
 4. Connect to the database with the SQL file
 5. Run the project
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+<!-->
+
 ## Usage
 
 This project can be used for monitoring and tracking accidents.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
 <!-- CONTRIBUTING -->
+<!-->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -127,28 +123,32 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- CONTRIBUTORS -->
+<!-->
+
 ## Contributors
 
-This project is an academic project done on 2021 and is contributed by 
-* [Sayuru Akash](https://github.com/sayuru-akash/)
-* [Isuru Pathirathna](https://github.com/Is116)
-* [Lochini Chamodya](https://github.com/Lchamodya)
-* [Yasasi Rathnayake](https://github.com/yasasirathnayake)
-* [Suvindi Wimarsha](https://github.com/suvindi)
-* [Pyara Rathnayake](https://github.com/pyararatnayake)
+This project is an academic project done on 2021 and is contributed by
+
+- [Sayuru Akash](https://github.com/sayuru-akash/)
+- [Isuru Pathirathna](https://github.com/Is116)
+- [Lochini Chamodya](https://github.com/Lchamodya)
+- [Yasasi Rathnayake](https://github.com/yasasirathnayake)
+- [Suvindi Wimarsha](https://github.com/suvindi)
+- [Pyara Rathnayake](https://github.com/pyararatnayake)
 
 <!-- LICENSE -->
+<!-->
+
 ## License
 
 Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+<!-->
+
 ## Contact
 
 Sayuru Akash - [@sayuru_akash](https://twitter.com/sayuru_akash) - contact@sayuru.me
@@ -157,10 +157,10 @@ Project Link: [https://github.com/sayuru-akash/accident-tracking-website](https:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-->
+
 [contributors-shield]: https://img.shields.io/github/contributors/sayuru-akash/accident-tracking-website.svg?style=for-the-badge
 [contributors-url]: https://github.com/sayuru-akash/accident-tracking-website/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sayuru-akash/accident-tracking-website.svg?style=for-the-badge
@@ -173,4 +173,5 @@ Project Link: [https://github.com/sayuru-akash/accident-tracking-website](https:
 [license-url]: https://github.com/sayuru-akash/accident-tracking-website/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sayuru_akash
-[product-screenshot]: images/screenshot.png
+
+[product-screenshot]: images/screenshot.png -->
